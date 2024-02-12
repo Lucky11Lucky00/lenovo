@@ -1,0 +1,19 @@
+#one {
+    background-color: blue;
+    position: absolute;
+    top: 20px;
+    z-index: 7;
+}
+#two {
+    background-color: blueviolet;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    z-index: 5;
+
+}
+.box {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
